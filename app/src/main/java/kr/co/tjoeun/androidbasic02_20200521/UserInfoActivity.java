@@ -14,6 +14,7 @@ public class UserInfoActivity extends BaseActivity {
         setValues();
     }
 
+
     @Override
     public void setupEvents() {
 
