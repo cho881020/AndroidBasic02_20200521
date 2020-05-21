@@ -9,11 +9,11 @@
         tools:context=".UserInfoActivity">
 
         <TextView
-            android:id="@+id/userNameTxt"
+            android:id="@+id/userInfoTxt"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center"
-            android:text="입력한 사용자 이름"
+            android:text="조경진(33세)"
             android:textSize="25sp"/>
 
     </LinearLayout>
